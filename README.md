@@ -1,3 +1,6 @@
+# Result:
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/7b745178-d1fa-4e01-8ad5-0a90cc6542f6" />
+
 # MenuWise Developer Interview Homework Test
 
 ## Instructions:
